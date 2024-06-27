@@ -1,0 +1,17 @@
+header {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.showhide {
+    position: relative;
+}
+
+button {
+    position: absolute;
+    right: 5px;
+    bottom: 5px;
+}
